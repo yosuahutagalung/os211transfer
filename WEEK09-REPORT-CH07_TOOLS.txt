@@ -1,4 +1,4 @@
-./
+ZCZC ./
 ./home/
 ./home/tester/
 ./media/
@@ -20404,5 +20404,17 @@
 ./etc/sysconfig/
 ./etc/passwd
 ./etc/mtab
-ZCZC FILES 20406
-ZCZC TOOLS 836M	/home/lfs/lfs-temp-tools-10.1.tar.xz
+ZCZC ===== Chapter 07_TOOLS =====  Week 09 =====
+ZCZC pwd /home/lfs/git/os211quiz/SandBox/W09/W09
+ZCZC date 210523-1527
+ZCZC hostname yosuahutagalung
+ZCZC username lfs
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn lfsW09 lfs 2738-4366 Verified
+ZCZC MaxLFS 2643M
+ZCZC MaxROOT 3316M
+ZCZC MaxMemory 85M
+ZCZC MaxSwap 0M
