@@ -1,0 +1,131 @@
+ZCZC ===== Chapter 07_7 =====  Week 09 =====
+ZCZC pwd /home/yosuahutagalung/git/os211quiz/SandBox/W09/W09
+ZCZC date 210522-1427
+ZCZC hostname yosuahutagalung
+ZCZC username yosuahutagalung
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  484M	/mnt/lfs/sources/
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 2751-983E Verified
+ZCZC MaxLFS 3475M
+ZCZC MaxROOT 2474M
+ZCZC MaxMemory 86M
+ZCZC MaxSwap 0M
+ZCZC MaxLFS 3476M
+ZCZC MaxMemory 137M
+ZCZC MaxMemory 142M
+ZCZC MaxLFS 3477M
+ZCZC MaxLFS 3478M
+ZCZC MaxMemory 170M
+ZCZC MaxMemory 172M
+ZCZC MaxLFS 3479M
+ZCZC MaxMemory 200M
+ZCZC MaxLFS 3480M
+ZCZC MaxLFS 3481M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 2855-BA7C Verified
+ZCZC MaxLFS 3482M
+ZCZC MaxLFS 3483M
+ZCZC MaxLFS 3484M
+ZCZC MaxLFS 3485M
+ZCZC MaxLFS 3486M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 2959-D2F3 Verified
+ZCZC MaxLFS 3487M
+ZCZC MaxLFS 3488M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 3105-97B6 Verified
+ZCZC MaxLFS 3489M
+ZCZC MaxLFS 3490M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 3211-DAD0 Verified
+ZCZC MaxLFS 3491M
+ZCZC MaxLFS 3492M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 3318-F548 Verified
+ZCZC MaxLFS 3493M
+ZCZC MaxLFS 3494M
+ZCZC MaxLFS 3495M
+ZCZC MaxLFS 3496M
+ZCZC MaxLFS 3502M
+ZCZC MaxLFS 3504M
+ZCZC MaxLFS 3507M
+ZCZC MaxLFS 3510M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 3422-0926 Verified
+ZCZC MaxLFS 3517M
+ZCZC MaxLFS 3519M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 3524-A430 Verified
+ZCZC MaxLFS 3539M
+ZCZC MaxLFS 3556M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 3626-9D80 Verified
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 3727-FA13 Verified
+ZCZC MaxMemory 257M
+ZCZC MaxMemory 642M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 3829-12E3 Verified
+ZCZC MaxMemory 1332M
+ZCZC MaxMemory 1565M
+ZCZC MaxMemory 1722M
+ZCZC MaxMemory 1838M
+ZCZC MaxMemory 1898M
+ZCZC MaxMemory 1952M
+ZCZC MaxMemory 2010M
+ZCZC MaxMemory 2063M
+ZCZC MaxMemory 2119M
+ZCZC MaxMemory 2174M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 3933-6F79 Verified
+ZCZC MaxMemory 2238M
+ZCZC MaxMemory 2289M
+ZCZC MaxMemory 2338M
+ZCZC MaxMemory 2385M
+ZCZC MaxMemory 2430M
+ZCZC MaxMemory 2472M
+ZCZC MaxMemory 2511M
+ZCZC MaxMemory 2551M
+ZCZC MaxMemory 2587M
+ZCZC MaxMemory 2628M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 4037-2304 Verified
+ZCZC MaxMemory 2682M
+ZCZC MaxMemory 2723M
+ZCZC MaxMemory 2762M
+ZCZC MaxMemory 2802M
+ZCZC MaxMemory 2829M
+ZCZC MaxMemory 2866M
+ZCZC MaxMemory 2918M
+ZCZC MaxMemory 2960M
+ZCZC MaxMemory 3001M
+ZCZC MaxMemory 3044M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 4141-A6DF Verified
+ZCZC MaxMemory 3105M
+ZCZC MaxMemory 3157M
+ZCZC MaxMemory 3210M
+ZCZC MaxMemory 3256M
+ZCZC MaxMemory 3304M
+ZCZC MaxMemory 3354M
+ZCZC MaxMemory 3405M
+ZCZC MaxMemory 3457M
+ZCZC MaxSwap 4M
+ZCZC MaxMemory 3506M
+ZCZC MaxMemory 3549M
+ZCZC MaxSwap 6M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 4244-0953 Verified
+ZCZC MaxMemory 3610M
+ZCZC MaxMemory 3654M
+ZCZC MaxMemory 3699M
+ZCZC MaxMemory 3747M
+ZCZC MaxMemory 3793M
+ZCZC MaxSwap 11M
+ZCZC MaxMemory 3829M
+ZCZC MaxSwap 47M
+ZCZC MaxSwap 133M
+ZCZC MaxSwap 149M
+ZCZC MaxSwap 209M
+ZCZC MaxSwap 317M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 4349-A352 Verified
+ZCZC MaxSwap 398M
+ZCZC MaxSwap 426M
+ZCZC MaxSwap 481M
+ZCZC MaxSwap 486M
+ZCZC MaxMemory 3835M
+ZCZC MaxSwap 487M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 4454-0104 Verified
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 4555-E9B7 Verified
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 4656-08B5 Verified
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 4758-9B15 Verified
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 4859-349E Verified
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 5000-6DD1 Verified

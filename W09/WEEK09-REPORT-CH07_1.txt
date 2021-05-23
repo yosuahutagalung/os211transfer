@@ -1,0 +1,22 @@
+ZCZC ===== Chapter 07_1 =====  Week 09 =====
+ZCZC pwd /home/yosuahutagalung/git/os211quiz/SandBox/W09/W09
+ZCZC date 210522-1303
+ZCZC hostname yosuahutagalung
+ZCZC username yosuahutagalung
+ZCZC Please Wait...
+ZCZC okSources 84
+ZCZC READY!
+ZCZC Sources  431M	/mnt/lfs/sources/
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 0338-580B Verified
+ZCZC MaxLFS 3085M
+ZCZC MaxROOT 2474M
+ZCZC MaxMemory 71M
+ZCZC MaxSwap 0M
+ZCZC MaxMemory 72M
+ZCZC MaxMemory 78M
+ZCZC MaxMemory 80M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 0440-B80C Verified
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 0542-4AE0 Verified
+ZCZC MaxMemory 82M
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 0643-9B29 Verified
+ZCZC verifyTokenn yosuahutagalungW09 yosuahutagalung 0744-05AD Verified
